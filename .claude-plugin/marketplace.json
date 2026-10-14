@@ -1,0 +1,14 @@
+{
+  "name": "themen-mit-tiefgang-marketplace",
+  "owner": {
+    "name": "Jean-Luc Winkler"
+  },
+  "plugins": [
+    {
+      "name": "themen-mit-tiefgang",
+      "source": "./",
+      "description": "Fundierte News- und Geschäftsmodellanalyse, begründete Einschätzungen und klare Beiträge für Social Media, Podcasts, Blogs und Keynotes."
+    }
+  ],
+  "description": "Fundierte Themenanalyse und klare Kommunikation von Jean-Luc Winkler."
+}

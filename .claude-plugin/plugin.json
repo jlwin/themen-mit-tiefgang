@@ -1,0 +1,19 @@
+{
+  "name": "themen-mit-tiefgang",
+  "displayName": "Themen mit Tiefgang",
+  "version": "1.0.0",
+  "description": "Fundierte News- und Geschäftsmodellanalyse, begründete Einschätzungen und klare Beiträge für Social Media, Podcasts, Blogs und Keynotes.",
+  "author": {
+    "name": "Jean-Luc Winkler"
+  },
+  "keywords": [
+    "news",
+    "business-models",
+    "strategy",
+    "writing",
+    "german"
+  ],
+  "license": "CC-BY-4.0",
+  "repository": "https://github.com/jlwin/themen-mit-tiefgang",
+  "homepage": "https://github.com/jlwin/themen-mit-tiefgang#readme"
+}
