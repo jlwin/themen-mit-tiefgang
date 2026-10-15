@@ -20,7 +20,7 @@ Eröffne mit der Kernfrage und entwickle ein argumentatives Gerüst. Vertiefe Me
 
 ## Keynote
 
-Plane einen Perspektivwechsel: bekannte Annahme, Irritation, Erklärung, neue Sicht, mögliche Handlung. Gib Fakten Raum zur Wirkung. Ein wiederkehrendes Bild kann Anfang und Schluss verbinden. Folien, Publikumsinteraktion oder Regiehinweise nur bei entsprechendem Auftrag.
+Plane einen Perspektivwechsel: bekannte Annahme, Irritation, Erklärung, neue Sicht, mögliche Handlung. Gib Fakten Raum zur Wirkung. Ein wiederkehrendes Bild kann Anfang und Schluss verbinden. Bei einer Markt- oder Technologieeinordnung müssen im Sprechtext auch Wettbewerbsstruktur, wirtschaftliche Größenordnung und eine begründete Zukunftsthese hörbar werden. Wähle wenige datierte Zahlen und übersetze ihre Bedeutung. Ein technisches Beispiel unterstützt die Einordnung, ersetzt sie aber nicht. Für drei bis fünf Minuten sind ungefähr 450–650 Wörter ein Ausgangspunkt; passe die Menge an Sprechtempo und Pausen an. Stelle einen knappen Marktvergleich mit Quellen und Datenlücken hinter den verwendbaren Text. Folien, Publikumsinteraktion oder Regiehinweise nur bei entsprechendem Auftrag.
 
 ## Eigenständige Beispiele
 

@@ -1,6 +1,6 @@
 ---
 name: themen-mit-tiefgang
-description: Analysiert aktuelle News, entwickelt begründete Einschätzungen und bewertet Geschäftsmodelle von Firmen, Produkten und Dienstleistungen. Bereitet daraus klare Beiträge mit Tiefgang auf.
+description: Verwenden, wenn aktuelle Nachrichten oder Entwicklungen analysiert, eingeordnet oder mit Kontext berichtet werden; eine begründete persönliche Einschätzung, Meinung oder Position zu einem Thema gefragt ist; oder eine Firma, ein Produkt oder eine Dienstleistung als Geschäftsmodell untersucht, bewertet oder beschrieben wird. Entwickelt fundierte Thesen, wirtschaftliche und strategische Einordnungen sowie klare Sprache und treffende Bilder für Antworten im Chat, Social Media, Podcasts, Blogs und Keynotes. Auch für Themenideen und die Überarbeitung solcher Beiträge. Nicht allein bei einer Erwähnung von News oder Firmen und nicht für reine Faktenabfragen, Übersetzungen oder sprachliche Korrekturen ohne Analyseauftrag.
 ---
 
 # Themen mit Tiefgang
@@ -30,7 +30,9 @@ Bei Themenideen suche Spannungen mit einer konkreten Folge für das Publikum: ei
 
 ## Erst prüfen, dann positionieren
 
-Bei Unternehmensnachrichten, Earnings oder wirtschaftlichen Thesen lies zusätzlich [Geschäftsmodelle und Kennzahlen](references/geschaeftsmodelle-und-kennzahlen.md). Wähle nur die für die Leitfrage relevanten Prüfungen; die dortigen Arbeitsschritte sind modular und erfordern keine separate Agenten-Ausführung.
+Bei Unternehmensnachrichten, Earnings, wirtschaftlichen Thesen sowie der Einordnung von Technologie-, Produkt- und Plattformmärkten lies zusätzlich [Geschäftsmodelle und Kennzahlen](references/geschaeftsmodelle-und-kennzahlen.md). Wähle nur die für die Leitfrage relevanten Prüfungen; die dortigen Arbeitsschritte sind modular und erfordern keine separate Agenten-Ausführung.
+
+Bei der Einordnung eines Technologie- oder Plattformmarkts ist eine technische Erklärung nur die Grundlage. Prüfe auch Marktstruktur und Substitute, Zahlungsbereitschaft und Erlösmechanik, belastbare Nutzungs- und Finanzkennzahlen sowie den Ausblick. Eine technisch versierte Zielgruppe ist kein Grund, diese wirtschaftliche Einordnung wegzulassen. Verdichte die Recherche für einen kurzen Beitrag; verkürze nicht schon die Recherche auf Produktfunktionen. Die Prüfungen und Datengrenzen stehen in [Geschäftsmodelle und Kennzahlen](references/geschaeftsmodelle-und-kennzahlen.md).
 
 Formuliere eine untersuchbare Leitfrage: Welche Entwicklung verändert welche Entscheidung für wen? Prüfe neben der naheliegenden Erklärung eine ernsthafte Alternative. Recherchiere aktuelle oder unsichere Tatsachen. Bevorzuge Geschäftsberichte, Investor-Relations-Material, Behörden, Studien und Originalaussagen. Podcasts dienen als Perspektivquelle, nicht als alleiniger Nachweis für Unternehmenszahlen.
 
@@ -62,7 +64,7 @@ Bei längeren Beiträgen lies zusätzlich die Abschnitte zur Dramaturgie in [Met
 
 Öffne mit der relevantesten Spannung: einer konkreten Beobachtung, überraschenden Relation oder präzisen These. Mache früh klar, warum das Publikum betroffen ist. Behalte im Beitrag die Zahlen und Begriffe, die zum Verständnis nötig sind; die übrige Tiefe gehört ins Briefing oder in die Quellen.
 
-Nutze eine Metapher, wenn sie den Mechanismus verständlicher macht. Entwickle ein eigenes Bild und prüfe die Zuordnung: Was entspricht welchem Akteur, welcher Abhängigkeit und welcher Handlung? Benenne Grenzen, wenn das Bild falsche Sicherheit erzeugen würde. Ein hübscher Vergleich ohne erklärende Funktion entfällt. In kurzen Beiträgen genügt meist ein tragendes Bild; bei längeren Texten vermeide widersprüchliche Bildwelten.
+Entwickle für eine mündliche Markt- oder Strategieeinordnung ein tragendes Bild, das den wirtschaftlichen Mechanismus erklärt, etwa die Verteilung von Wert, Kontrolle oder Abhängigkeiten. Verwirf es, wenn die Zuordnung nicht trägt. Bei anderen Formaten nutze eine Metapher, wenn sie den Mechanismus verständlicher macht. Entwickle ein eigenes Bild und prüfe die Zuordnung: Was entspricht welchem Akteur, welcher Abhängigkeit und welcher Handlung? Benenne Grenzen, wenn das Bild falsche Sicherheit erzeugen würde. Ein hübscher Vergleich ohne erklärende Funktion entfällt. In kurzen Beiträgen genügt meist ein tragendes Bild; bei längeren Texten vermeide widersprüchliche Bildwelten.
 
 Schreibe mit konkreten Verben und hörbarer Satzmelodie. Wechsel zwischen erklärenden Sätzen und kurzen Kernsätzen. Kritik richtet sich auf eine Entscheidung, Annahme oder Struktur und enthält einen Grund. Humor und Schärfe passen zu Publikum und Nutzerwunsch; sie ersetzen keinen Beleg. Vermeide künstliche Empörung und unbelegte Absolutheit.
 
@@ -72,4 +74,4 @@ Schließe mit einer Konsequenz, praktikablen Entscheidung oder offenen Frage, di
 
 Lies [Formatwahl und Beispiele](references/formate.md) für das angefragte Medium. Liefere bei einem fertigen Beitrag zuerst den verwendbaren Text, anschließend kurze Recherchehinweise und zentrale Quellen. Bewahre Unsicherheit auch im Veröffentlichungstext, wenn sie für dessen zentrale Aussage wichtig ist. Quellen können je nach Medium inline, als Shownotes oder in einem begleitenden Belegteil stehen.
 
-Prüfe vor Ausgabe, ob die These über eine Zusammenfassung hinausgeht, die Belege ihre Tragweite stützen, das Gegenargument ernst genommen wurde und das Bild die Sache richtig erklärt. Entferne alles, was nur Gelehrsamkeit oder Lautstärke demonstriert. Bei Überarbeitungen erhalte persönliche Erfahrungen und die Haltung des Nutzers, sofern er deren Änderung nicht verlangt. Markiere offene Tatsachenfragen, statt sie stillschweigend zu erfinden.
+Prüfe vor Ausgabe, ob die These über eine Zusammenfassung hinausgeht, die Belege ihre Tragweite stützen, das Gegenargument ernst genommen wurde und das Bild die Sache richtig erklärt. Bei Markt- und Plattformthemen prüfe zusätzlich: Enthält das Ergebnis einen begründeten Wettbewerbsvergleich, aussagekräftige datierte Kennzahlen mit wirtschaftlicher Bedeutung und einen konditionalen Ausblick? Falls Daten fehlen, muss die konkrete Lücke sichtbar werden. Eine technische Erklärung mit Produktlinks allein erfüllt diesen Auftrag nicht. Entferne alles, was nur Gelehrsamkeit oder Lautstärke demonstriert. Bei Überarbeitungen erhalte persönliche Erfahrungen und die Haltung des Nutzers, sofern er deren Änderung nicht verlangt. Markiere offene Tatsachenfragen, statt sie stillschweigend zu erfinden.

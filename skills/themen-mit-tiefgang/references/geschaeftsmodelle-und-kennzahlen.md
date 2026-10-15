@@ -1,6 +1,6 @@
 # Geschäftsmodelle und Kennzahlen
 
-Diese Vertiefung ist eine Auswahlhilfe für Unternehmensnachrichten. Wähle Kennzahlen und Prüfungen nach Geschäftsmodell und Leitfrage; nutze sie nicht als allgemeine Pflichtliste.
+Diese Vertiefung ist eine Auswahlhilfe für Unternehmensnachrichten und die wirtschaftliche Einordnung von Technologie-, Produkt- und Plattformmärkten. Wähle Kennzahlen und Prüfungen nach Geschäftsmodell und Leitfrage; nutze sie nicht als allgemeine Pflichtliste.
 
 ## Modell und Erkenntnisfrage bestimmen
 
@@ -50,3 +50,16 @@ Die Analyse lässt sich in fünf Arbeitsschritte gliedern: Daten sammeln, Modell
 Für Szenarien benenne einen messbaren Trigger und eine Widerlegungsbedingung. Passe den Horizont an den Vorgang an, etwa die nächsten Earnings oder einen Vertragsablauf. Eine Bull/Neutral/Bear-Einordnung ist optional für einen expliziten Investmentauftrag; für einen Kommunikationsbeitrag ist die praktische Konsequenz häufig hilfreicher.
 
 Verwende keine unbelegten prozentualen Modellgewichtungen, pauschalen SBC- oder Verwässerungsschwellen oder festen Vorläufe für Frühindikatoren. Vergleiche Risiken im Kontext von Geschäftsmodell, Entwicklung und passenden Peers.
+
+## Technologie- und Plattformmärkte einordnen
+
+Bei offenen Themen wie „Agentic Workflow Production Platforms“ prüfe diese Zusammenhänge, bevor du den Beitrag verdichtest:
+
+- **Marktgrenze:** Welches Kundenproblem und welches Budget werden adressiert? Unterscheide direkte Peers, angrenzende Plattformen und Eigenentwicklung. Eine unscharfe Kategorie erhält keine scheinpräzise Marktgröße. Breite Analystenprognosen sind kein gemessener Umsatz dieses Teilmarkts.
+- **Wettbewerbsposition:** Vergleiche die relevanten Ansätze nach Zielkunde, Distribution, Integrationstiefe, Betriebsmodell und monetarisierbarem Vorteil. Erkläre, warum diese Unterschiede eine Kaufentscheidung oder die Preismacht verändern. Vermeide eine bloße Featureliste und die Annahme, alle Angebote seien direkte Substitute.
+- **Zahlen und Evidenz:** Suche absolute Umsatz-/ARR-Zahlen, Wachstum, zahlende Kunden, Kundenbindung und Profitabilität, soweit verfügbar. Ergänze Finanzierung, Bewertung und Nutzung als eigenständige Signale. Halte Berichtsdatum, Messzeitraum, Definition und Quellenstatus fest: geprüfter Abschluss, Unternehmensangabe, Investorenaussage oder externe Schätzung. Downloads, Installationen und Stars sind weder zahlende Kunden noch Marktanteil; Finanzierung und Bewertung sind keine Umsätze. Eine fehlende Finanzangabe bleibt eine Lücke und wird nicht durch Reichweite ersetzt.
+- **Preis und Kosten:** Prüfe aktuelle Preise einschließlich Währung, Abrechnungsperiode, Einheit, Kontingent und Zusatzkosten. Bei KI-Produkten unterscheide Plattformpreis, Modell-/Toolverbrauch, Infrastruktur und menschliche Nacharbeit. Leite daraus Anreize und mögliche Margenrisiken ab; veröffentlichte Preise belegen keine tatsächlich erzielte Bruttomarge. Vergleiche unterschiedliche Abrechnungseinheiten nicht als gleichwertige Pakete.
+- **Wertabschöpfung:** Wer besitzt Modellzugang, Kundenzugang, Prozesswissen und produktive Integrationen? Prüfe Bündelung durch bestehende Plattformen, Austauschbarkeit, Wechselkosten und die Alternative Eigenbau. Kennzeichne strategische Schlussfolgerungen als Interpretation.
+- **Ausblick:** Entwickle für einen passenden Horizont eine begründete Basiserwartung und die stärkste Alternative. Nenne beobachtbare Signale, die die These bestätigen oder kippen würden, etwa Vertragsverlängerungen, Expansion produktiver Nutzung, Margen oder nachgewiesene Integration. Eine Ankündigung ist noch keine ausgelieferte Funktion.
+
+Für einen kurzen Sprechtext wähle wenige entscheidende Zahlen, die Größenordnung und Spannung tragen. Lege den breiteren Vergleich und relevante Datenlücken in einen kompakten Belegteil. Wenn nur Schätzungen vorliegen, kennzeichne sie auch im gesprochenen Text. Bewerte die Qualität der Schätzmethodik; mechanische Ableitungen aus Mitarbeiterzahl oder Finanzierung sind kein belastbarer Umsatznachweis. Berechnungen mit unterschiedlich datierten oder geschätzten Eingaben bleiben ausdrücklich Näherungen und tragen keine präzise Bewertungsbehauptung.
